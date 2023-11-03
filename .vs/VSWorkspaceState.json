@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RealCLearning"
+    "\\RealCLearning",
+    "\\RealCLearning\\Project1"
   ],
-  "SelectedNode": "\\RealCLearning\\RealCLearning.sln",
+  "SelectedNode": "\\RealCLearning\\Project1\\Source.cpp",
   "PreviewInSolutionExplorer": false
 }
